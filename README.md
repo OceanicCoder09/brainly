@@ -40,7 +40,6 @@ https://brainly-frontend-topaz.vercel.app/
 - MongoDB (local or cloud e.g. MongoDB Atlas)
 - Git
 
-### ⚙️ Setup Steps
 
 
 
