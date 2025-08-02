@@ -5,7 +5,7 @@
 ## 🌐 Live Demo
 
 > Coming Soon  
-<!-- Add deployed link if available -->
+https://brainly-frontend-topaz.vercel.app/
 
 ---
 
