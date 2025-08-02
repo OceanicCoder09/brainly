@@ -47,3 +47,8 @@ https://brainly-frontend-topaz.vercel.app/
    ```bash
    git clone https://github.com/OceanicCoder09/brainly.git
    cd brainly
+
+   .env
+MONGO_URI=your_mongodb_connection_string
+JWT_SECRET=your_secret_key
+PORT=5000
