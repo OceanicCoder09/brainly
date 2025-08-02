@@ -31,11 +31,6 @@ https://brainly-frontend-topaz.vercel.app/
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots or a screen-recording GIF here to demonstrate functionality
-
----
 
 ## 📦 Installation
 
